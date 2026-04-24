@@ -51,9 +51,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanHusien\&theme=shadow_green\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
----
-
-# 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=HasanHusien\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
