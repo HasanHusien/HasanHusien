@@ -32,6 +32,7 @@
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![PugJS](https://img.shields.io/badge/PugJS-A86454?style=for-the-badge&logo=pug&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
