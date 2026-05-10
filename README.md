@@ -26,6 +26,7 @@
 ![REST_API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI_CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=react-query\&logoColor=white)
